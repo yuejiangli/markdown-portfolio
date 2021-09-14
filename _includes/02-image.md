@@ -1,1 +1,1 @@
-![hello world]{https://octodex.github.com/images/yaktocat.png}
+![hello world](https://octodex.github.com/images/yaktocat.png)
